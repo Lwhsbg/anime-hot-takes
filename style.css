@@ -5,20 +5,15 @@ body{
     color: black;
 }
 h1 {
-    color: white;
+    color: black;
     text-align: center;
     font-size: 36px;
     margin-bottom: 10px;
 }
 .intro {
-    color: #dddddd;
+    color: #000000;
     text-align: center;
     width: 60%;
-    margin: 0 auto 40px auto;
-}
-.take {
-    background-color: white;
-    width: 500px;
     margin: 0 auto 40px auto;
 }
 .take {
@@ -30,13 +25,13 @@ h1 {
     border-radius: 8px;
 }
 .number{
-    color: #888888;
+    color: #000000;
     font-size: 14px;
     margin: 0 0 10px 0;
 }
 .take img{
     width: 100%;
     height: 250px;
-    
+
 
 }
